@@ -1,0 +1,2 @@
+# dump1090-fa_to_InfluxDB
+dump1090-faのAVR(30001)からのBaseStationデータをInfluxDBに橋渡しするスクリプト
