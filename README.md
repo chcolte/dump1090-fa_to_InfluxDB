@@ -8,5 +8,4 @@ dump1090-faのAVR(30001)からのBaseStationデータをInfluxDBのInlineProtoco
 - GNU netcat
 - GNU sed
 - curl
-- sed
 - (systemd)
